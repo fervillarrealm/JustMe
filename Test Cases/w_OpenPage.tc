@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>w_OpenPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f9b1797-6ddf-4bff-ad30-d41099796a4d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bd43fbe3-ceb7-46a0-9458-ffeb7736a611</id>
+      <masked>false</masked>
+      <name>webHref</name>
+   </variable>
+</TestCaseEntity>
