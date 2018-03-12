@@ -3,11 +3,19 @@
    <description></description>
    <name>m_NavBarToggle</name>
    <tag></tag>
-   <elementGuidId>a71f49c4-6788-4641-a4df-17abbb189c96</elementGuidId>
+   <elementGuidId>101b0a98-61a0-4c5b-a758-6852edff8ff3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class=&quot;navbar-toggle collapsed&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@data-target = '#navbar']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -22,8 +30,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>data-target</name>
       <type>Main</type>
-      <value>class(&quot;navbar-toggle&quot;)</value>
+      <value>#navbar</value>
    </webElementProperties>
 </WebElementEntity>

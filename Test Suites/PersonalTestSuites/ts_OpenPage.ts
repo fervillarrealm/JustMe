@@ -4,7 +4,7 @@
    <name>ts_OpenPage</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-03-12T11:20:36</lastRun>
+   <lastRun>2018-03-12T13:35:13</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -31,5 +31,11 @@
          <value>webHref</value>
          <variableId>bd43fbe3-ceb7-46a0-9458-ffeb7736a611</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d2ee2633-fc46-47fe-81eb-a89a83072d66</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Welcome/w_CollarpseNavBar</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
