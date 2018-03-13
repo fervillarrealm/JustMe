@@ -33,5 +33,5 @@ WebUI.waitForPageLoad(3)
 WebUI.navigateToUrl(webHref)
 
 // Step 4
-WebUI.waitForPageLoad(15)
+WebUI.waitForPageLoad(3)
 

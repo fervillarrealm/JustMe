@@ -19,3 +19,12 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
+Thread.sleep(4000)
+
+WebUI.click(findTestObject('Menu/m_NavBarToggle'))
+
+Thread.sleep(4000)
+
+WebUI.click(findTestObject('Menu/m_NavBarToggle'))
+
+Thread.sleep(4000)
